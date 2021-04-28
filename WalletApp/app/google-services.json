@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535397317635",
+    "firebase_url": "https://wallet-311820-default-rtdb.firebaseio.com",
+    "project_id": "wallet-311820",
+    "storage_bucket": "wallet-311820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535397317635:android:29d2dd7a4ca9f7b2df2236",
+        "android_client_info": {
+          "package_name": "com.example.wallet5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535397317635-8qgmd48091uk2bsc65473oprsono0s63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9GUMfAX1q5JKqGrMTKOhzxIfGnc6spY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535397317635-8qgmd48091uk2bsc65473oprsono0s63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
